@@ -1,0 +1,68 @@
+body
+    h1 {
+        margin: 0;
+        background-color: white;
+        color: black(153, 86, 241);
+        font-size: 50px;
+        padding: 25px;           
+}
+
+
+/* span, h1 {
+    font-family: 'Roboto', sans-serif;
+} */
+.navigation-section {
+
+}
+
+.row {
+    display: flex;
+}
+
+.container {
+    width: 20%
+}
+
+.container img {
+    width: 10%
+}
+
+body
+    h3 {
+        margin: 0;
+        background-color: white;
+        color: rgb(153, 86, 241);
+        font-size: 30px;
+        
+}
+
+header {
+    background-color: lavender;
+    height: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(148, 148, 245);
+    color: black;
+    text-align: right;
+    font-size: 45px;
+    height: 20px;
+    padding: 35px;
+    
+}
+
+blockquote {
+    text-align: center;
+    font-size: larger;
+
+}
+
+footer {
+    padding: 10px;
+    background-color: lavender;
+    font-size: 50px;
+}
+    
+
